@@ -1,0 +1,9 @@
+# Ultra Coach PWA 1.0.0-alpha.1
+
+PWA mobile indépendante utilisant le même compte Supabase que BikingMan Coach.
+
+## Déploiement
+Créer un second site Netlify et déployer le contenu de ce dossier. Sur iPhone, ouvrir le site avec Safari puis Partager > Ajouter à l’écran d’accueil.
+
+## Fonctionnement
+Seules les missions publiées depuis Mission Planner sont visibles. Une republication remplace le dernier état disponible.

@@ -10,3 +10,7 @@ Seules les missions publiées depuis Mission Planner sont visibles. Une republic
 
 
 - Navigation tactile fiabilisée : swipe horizontal tolérant, verrouillage page par page et points cliquables.
+
+
+## v1.1.0-beta.1
+Lecture du Road Book publié, villages et repas hors ligne, recalcul local de la progression.
